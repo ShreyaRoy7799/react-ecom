@@ -29,7 +29,7 @@ let NavBar = () => {
 
           <Link to="/ContactUS">
             <div>
-              Contact Us
+              Contact
             </div>
           </Link>
 
