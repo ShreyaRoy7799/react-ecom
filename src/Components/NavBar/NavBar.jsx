@@ -11,7 +11,7 @@ let NavBar = () => {
 
         <Link to="/" >
           <div className="nav_logo">
-            Fashion
+            Women fasion
           </div>
         </Link>
 
